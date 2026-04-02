@@ -1,0 +1,10 @@
+depthforge
+*.pgm
+*.ppm
+*.o
+data/kitti/*.zip
+data/kitti/training/
+data/kitti/testing/
+.venv/
+.claude/
+__pycache__/
