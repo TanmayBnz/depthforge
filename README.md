@@ -8,8 +8,8 @@
 | Name | Roll Number | Section |
 |------|-------------|---------|
 | Tanmay Singh Bains | 230962180 | AIML-C2 33 |
-| Aditya Prashant Naidu | 230962238 | AIML-C2 33 |
-| Bhavyy Khurana | 230962102 | AIML-C2 33 |
+| Aditya Prashant Naidu | 230962238 | AIML-C2 40 |
+| Bhavyy Khurana | 230962102 | AIML-C1 24 |
 
 ---
 
